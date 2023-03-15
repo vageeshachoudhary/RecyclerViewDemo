@@ -1,5 +1,5 @@
 # RecyclerViewDemo
 
-#### App that shows how to use Recycler View in a mobile app
+#### App that depicts the usage of Recycler View in a mobile app
 
-[RecyclerView.webm](https://user-images.githubusercontent.com/45949734/225422126-410b9ebb-8493-4c80-9dc7-fef259bcd25c.webm)
+![ezgif com-resize (1)](https://user-images.githubusercontent.com/45949734/225424480-5bb8609c-fa33-485e-b1dd-ae269ed03071.gif)
